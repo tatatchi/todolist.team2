@@ -60,7 +60,7 @@ function App() {
 
   return (
     <div className="App">
-      <h3>Todo</h3>
+      <h3>TodoList</h3>
 
       <Box
       component="form"
